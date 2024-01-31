@@ -12,4 +12,4 @@ tutorial :O)
 
 so the status command gives you information on how the "Repo" has done changes or something
 the thing i noticed is that when i initiated the repo it didn't include the folder before because it should all be part of the but i think im missing part of the point. uploading to github doesn't upload the , how can i say, the django "environment" or laravel "environment or whatever other framework it is just the files. One of the hardest things ive learnt is that you don't really download the project itself, you download the files to a project. It sometimes will have a requirements.txt file which helps installing dependencies but getting to work because of version differences or because you have different configurations or sometimes just the folder structure. It just doesn't work well. 
-
+made a change to track changes 
