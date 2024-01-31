@@ -1,0 +1,15 @@
+
+
+its important to know what folders devenping on the internet connection
+i guess it won't matter. Its just im so traumatized by our slow internet that 
+i can't upload the venv files in django for example because of the slow internet 
+just for the sake of it i am going to include the whole project 
+
+i ran git init to initalize the repo into git i
+oh i remember now. I was going to write thta i moved to file into the new directory and i 
+guess I can merge that file into github i guess that is the point of following the 
+tutorial :O)
+
+so the status command gives you information on how the "Repo" has done changes or something
+the thing i noticed is that when i initiated the repo it didn't include the folder before because it should all be part of the but i think im missing part of the point. uploading to github doesn't upload the , how can i say, the django "environment" or laravel "environment or whatever other framework it is just the files. One of the hardest things ive learnt is that you don't really download the project itself, you download the files to a project. It sometimes will have a requirements.txt file which helps installing dependencies but getting to work because of version differences or because you have different configurations or sometimes just the folder structure. It just doesn't work well. 
+
